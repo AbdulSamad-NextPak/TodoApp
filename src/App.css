@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+input[type="text"]{
+  color: white;
+  background: transparent;
+}
+input[type="text"]:focus{
+  background: transparent;
+  color: white;
+}
